@@ -1,4 +1,4 @@
-##IPOD_ReactJs App
+# IPOD_ReactJs App
 
 # Getting Started with Create React App
 
@@ -19,7 +19,7 @@ You may also see any lint errors in the console.
 
 
 
-### Screenshot of this project
+## Screenshot of this project
 
 ![ipod](https://user-images.githubusercontent.com/106314415/196906644-c786d357-f1f7-4cd1-951f-1544b609927d.png)
 
